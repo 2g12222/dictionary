@@ -1,0 +1,36 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+    margin: 40px;
+    margin-left: 40px;
+    background-color: aliceblue;
+}
+
+code {
+    color: limegreen;
+}
+
+img {
+    width: 100px;
+    border: dotted, 2px, greenyellow;
+}
+
+a {
+    color: blue;
+}
+
+mark {
+    background-color: gold;
+}
+
+
+
+
+
+@media screen and (max-width: 704px) {
+
+}
